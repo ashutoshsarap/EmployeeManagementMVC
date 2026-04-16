@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\employeemanagement\\employeemanagement\\employeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\employeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\employeemanagement\\employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\employeemanagement\\employeemanagement\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\employeemanagement\\employeemanagement\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\employeemanagement\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\employeemanagement\\employeemanagement\\models\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\employeemanagement\\employeemanagement\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\employeemanagement\\employeemanagement\\models\\entity\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\entity\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\employeemanagement\\employeemanagement\\models\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\employeemanagement\\employeemanagement\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\employeemanagement\\employeemanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\coditas-admin\\source\\c#practiceprograms\\employeemanagement\\employeemanagement\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A61682F-5149-0401-AAC2-C83F883D6E7C}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeManagement",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement\\EmployeeManagement.csproj",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+              "RelativeToolTip": "EmployeeManagement\\EmployeeManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-16T21:56:31.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T21:29:29.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "EmployeeManagement\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T21:12:31.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EmployeeManagement\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T20:57:03.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T20:55:52.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Models\\EmployeeVM.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\EmployeeVM.cs",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Models\\EmployeeVM.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\EmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T20:44:43.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\Add.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Employee\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\Add.cshtml",
+              "RelativeToolTip": "EmployeeManagement\\Views\\Employee\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T20:37:55.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Models\\Entity\\EmployeeEntity.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\Entity\\EmployeeEntity.cs",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Models\\Entity\\EmployeeEntity.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\Entity\\EmployeeEntity.cs",
+              "ViewState": "AgIAAAYAAAAAvLu7u7vrvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T20:36:26.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Models\\DTO\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\DTO\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Models\\DTO\\EmployeeDTO.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\DTO\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T20:35:59.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Repository\\Repository.cs",
+              "RelativeToolTip": "EmployeeManagement\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAYAAADANDMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T20:35:30.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAFUAAAAA8////z8twFoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T20:28:09.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Coditas-Admin\\source\\C#PracticePrograms\\EmployeeManagement\\EmployeeManagement\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagement\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAAA8AAACo3d3d3R05wBsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T19:36:42.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
